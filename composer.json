@@ -1,0 +1,10 @@
+{
+    "name": "rbhangale/composer-world",
+    "authors": [
+        {
+            "name": "rbhangale",
+            "email": "rbhangale@xento.com"
+        }
+    ],
+    "require": {}
+}
