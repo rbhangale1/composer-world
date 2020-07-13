@@ -1,5 +1,7 @@
 {
     "name": "rbhangale/composer-world",
+    "description": "This is first package",
+    "license": "rbhangale",
     "authors": [
         {
             "name": "rbhangale",
